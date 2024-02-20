@@ -1,0 +1,1 @@
+# Leetcode_Q1071_GreatestCommonDivisorofStrings_Py
